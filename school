@@ -1,0 +1,233 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Tiruchengode Boys School</title>
+    <style>
+      #style
+      {
+        font-family: "open sans",Sans-Serif;
+        color:#444444;
+        box-sizing: border-box;
+      }
+      #header
+      {
+        .img
+        {
+          display: flex!important;
+          justify-content: space-between;
+          padding: 0px 35px;
+        }
+        img
+        {
+          width:175px;
+          padding: 8px 0px;
+        }
+        .list
+        {
+          hl
+          {
+            padding:15px;
+            font-size: 16px;
+            color: black;
+            button
+            {
+              color: white;
+              border: none;
+              border-radius: 36px;
+              padding:8px;
+              background-color:red;
+            }
+            span
+             {
+               button
+               {
+                 background-color: green;
+               }
+             }
+          }
+        }
+      }
+#main 
+{
+  font-family: "open sans", Sans-Serif;
+  color:#444444;
+}
+.logo
+{
+  display: flex!important;
+  justify-content: space-between;
+  text-align: center;
+  padding: 0px 375px;
+  margin: 30px;
+}
+#logo
+{
+  text-align: center;
+  span
+  {
+    img
+    {
+      border-radius: 18px;
+      height: 300px;
+      width:65%
+    }
+  }
+}
+section
+{
+  overflow: hidden;
+}
+#message1
+{
+  background-color:hsl(0,0%,90%);
+  box-sizing:border-box;
+  text-align: center;
+  overflow: hidden;
+  h2
+  {
+  color:black;
+  text-align: center;
+  padding-top:30px;
+  }
+}
+.message1
+{
+  flex-wrap: wrap;
+  display: flex;
+  justify-content: space-between;
+  padding:0px 250px;
+  p
+  {
+   text-align: justify;
+   font-size: 18px;
+   padding-left:0px;
+   padding-right:270px;
+   width: 690px;
+  }
+  img
+  {
+    border-radius:350px;
+    text-align: center;
+    
+  }
+  
+}
+.text-align
+{
+  text-align: center;
+  img
+  {
+    border-radius: 200px;
+  }
+}
+#dflex
+{
+  display: flex!important;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  
+}
+    </style>
+  </head>
+  <body id="style">
+    <header id="header">
+      <div id="img" class="img">
+        <img src="https://www.gbhsstiruchengode.com/assets/img/site/logo_school_menu.png">
+        <nav class="navbar">
+          <ul class="list">
+            <b><hl>Home</hl>
+           <hl>Centenary Celebration</hl>
+           <hl>Golden Jubilee Souvenir</hl>
+           <hl>About us </hl>
+           <hl><button>LOGIN</button></hl>
+           <hl><span><button>REGISTER</button></span></hl>
+           <hl>Language</hl></b>
+          </ul>
+        </nav>
+      </div>
+    </header>
+     <!-- header end-->
+     <!-- Main block start-->
+  <main id="main">
+       <!-- section 1 start-->
+       <section>
+         <!-- Main div start-->
+         <div id="logo" >
+           <!-- sub div start-->
+           <div class="logo">
+            <img src="https://www.gbhsstiruchengode.com/assets/img/site/school_logo.webp" width="120" height="120">
+            <div>
+              <h2 style="color:red">GOVERNMENT BOYS HIGHER SECONDARY SCHOOL</h2>
+              <P>Tiruchengode, Namakkal District.</P>
+            </div>
+            <img src="https://www.gbhsstiruchengode.com/assets/img/site/govt_logo.webp" width="100"height="100">
+           </div>
+           <span><img src="https://www.gbhsstiruchengode.com/assets/img/site/2.webp"></span>
+         </div>
+       </section>
+       <!-- End section 1-->
+    <!-- Start Section 2 -->
+    <section>
+      <!-- start Main div block-->
+      <div id="message1">
+        <h2>SCHOOL HEAD MASTER</h2>
+      <!-- start sub div-->
+      <div class="message1">
+        <div>
+           <p style="padding-top:10px">
+          Choosing a right school is Immensely important to educate the children's. From the journey of day one the parent's will expect the environment of the schools to make their children's, now the Government schools can offer the well preferred environment space for studies and the physical education.
+          <br>
+          <br>
+          As The Government school our goals to mold our students from the day one to win their life in own way. Mean of Sharing bundle of knowledge, leadership performing skills & Importantly our Culture. That can make our students to become a leader in the future society.
+          <br>
+          <br>
+          As the Head Master of Government School, I'm privilege to help our children with the New Education system where our government providing the well-trained staffs to insist our students thinking and presenting skills.
+        </p>
+        </div>
+        <div style="margin-bottom:50px;">
+         <img src="https://www.gbhsstiruchengode.com/assets/img/site/new_hm.webp" width="290" height="290">
+         <br>
+           <h3>M. BALAJI</h3>
+           <span>Head Master & PTA Secretary</span>
+        </div>
+      </div>
+      <!-- end sub div-->
+      
+    </div>  
+    <!-- end main div-->
+    </section>
+    <!-- end section 2-->
+    <!-- start section 3-->
+    <section> 
+      <!-- start main div-->
+      <div>
+        <h2 style="color:black;text-align:Center;">PARENT / TEACHER ASSOCIATION MEMBERS</h2>
+        <!--start sub div-->
+          <div id="dflex">
+            <div class="text-align">
+              <img src="https://www.gbhsstiruchengode.com/assets/img/site/ptamember.jpeg" width="200" height="200">
+              <span >
+                <h2>T.T. Paranthaman</h2>
+              <p>President</p>
+              </span>
+            </div>
+            <div class="text-align">
+              <img src="https://www.gbhsstiruchengode.com/assets/img/site/pta_2_image.png" width="200" height="200">
+              <span>
+                <h2>T.S. Senthil</h2>
+              <p>Vice President</p>
+              </span>
+            </div>
+            <div class="text-align">
+              <img src="https://www.gbhsstiruchengode.com/assets/img/site/Madhesh.png"width="200" height="200">
+              <span>
+                <h2>K. Madhesh</h2>
+                <p>Treasurer</p>
+              </span>
+            </div>
+          </div>        
+      </div>
+    </section>
+  </main>
+  </body>
+</html>
